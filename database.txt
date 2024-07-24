@@ -1,0 +1,89 @@
+aminocyclitol	spectinomycin
+aminoglycoside	gentamicin
+aminoglycoside	tobramycin
+aminoglycoside	streptomycin
+aminoglycoside	amikacin
+aminoglycoside	isepamicin
+aminoglycoside	dibekacin
+aminoglycoside	kanamycin
+aminoglycoside	neomycin
+aminoglycoside	lividomycin
+aminoglycoside	paromomycin
+aminoglycoside	ribostamycin
+aminoglycoside	butiromycin
+aminoglycoside	butirosin
+aminoglycoside	hygromycin
+aminoglycoside	netilmicin
+aminoglycoside	apramycin
+aminoglycoside	sisomicin
+aminoglycoside	arbekacin
+aminoglycoside	kasugamycin
+aminoglycoside	astromicin
+aminoglycoside	fortimicin
+amphenicol	chloramphenicol
+amphenicol	florfenicol
+beta-lactam	amoxicillin
+beta-lactam	amoxicillin+clavulanic acid
+beta-lactam	ampicillin
+beta-lactam	ampicillin+clavulanic acid
+beta-lactam	cefepime
+beta-lactam	cefixime
+beta-lactam	cefotaxime
+beta-lactam	cefoxitin
+beta-lactam	ceftazidime
+beta-lactam	ertapenem
+beta-lactam	imipenem
+beta-lactam	meropenem
+beta-lactam	piperacillin
+beta-lactam	piperacillin+tazobactam
+beta-lactam	aztreonam
+beta-lactam	cefotaxime+clavulanic acid
+beta-lactam	temocillin
+beta-lactam	ticarcillin
+beta-lactam	ceftazidime+avibactam
+beta-lactam	penicillin
+beta-lactam	ceftriaxone
+beta-lactam	ticarcillin+clavulanic acid
+beta-lactam	cephalothin
+beta-lactam	cephalotin
+beta-lactam	piperacillin+clavulanic acid
+folate pathway antagonist	sulfamethoxazole
+folate pathway antagonist	trimethoprim
+fosfomycin	fosfomycin
+glycopeptide	vancomycin
+glycopeptide	teicoplanin
+glycopeptide	bleomycin
+ionophores	narasin
+ionophores	salinomycin
+ionophores	maduramicin
+lincosamide	lincomycin
+lincosamide	clindamycin
+macrolide	carbomycin
+macrolide	erythromycin
+macrolide	azithromycin
+macrolide	oleandomycin
+macrolide	spiramycin
+macrolide	tylosin
+macrolide	telithromycin
+nitroimidazole	metronidazole
+oxazolidinone	linezolid
+pleuromutilin	tiamulin
+polymixin	colistin
+pseudomonic acid	mupirocin
+quinolone	fluoroquinolone
+quinolone	ciprofloxacin
+quinolone	nalidixic acid
+rifamycin	rifampicin
+steroid antibacterial	fusidic acid
+streptogramin a	dalfopristin
+streptogramin a	pristinamycin iia
+streptogramin a	virginiamycin m
+streptogramin a	quinupristin+dalfopristin
+streptogramin b	quinupristin
+streptogramin b	pristinamycin ia
+streptogramin b	virginiamycin s
+tetracycline	tetracycline
+tetracycline	doxycycline
+tetracycline	minocycline
+tetracycline	tigecycline
+under development	ceftiofur
